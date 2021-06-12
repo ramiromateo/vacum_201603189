@@ -1,0 +1,13 @@
+
+Location: A | Action: CLEAN (Dirty,Dirty)1
+Location: A | Action: CLEAN (Dirty,Clean)3
+Location: A | Action: RIGHT (Clean,Dirty)5
+Location: A | Action: RIGHT (Clean,Clean)7
+
+Location: B | Action: CLEAN (Dirty,Dirty)2
+Location: B | Action: RIGHT (Dirty,Clean)4
+Location: B | Action: CLEAN (Clean,Dirty)6
+Location: B | Action: LEFT  (Clean,Clean)8
+
+1-5-6-8-7
+2-4-3-7-8
